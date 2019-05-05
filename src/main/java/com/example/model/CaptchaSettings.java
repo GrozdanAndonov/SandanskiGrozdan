@@ -11,13 +11,12 @@ import org.springframework.stereotype.Component;
 @Component
 public class CaptchaSettings {
  
-    private String url = "https://www.google.com/recaptcha/api/siteverify?";
-    private String secretKey = "6LdylUYUAAAAAIl50f8lBQwAwKdZmkDdnOUUeaoR";
-    
-    
+    private static final String URL_RECAPTCHA = "https://www.google.com/recaptcha/api/siteverify?";
+    private static final String RECAPTCHA_SECRET_KEY = System.getenv("RECAPTCHA_KEY");
+  
     public boolean isCaptchaValid(String response) {
         try {
-            String urlWhole = url + "secret=" + this.secretKey + "&response=" + response;
+            String urlWhole = URL_RECAPTCHA + "secret=" + RECAPTCHA_SECRET_KEY + "&response=" + response;
             InputStream res = new URL(urlWhole).openStream();
             BufferedReader rd = new BufferedReader(new InputStreamReader(res, Charset.forName("UTF-8")));
             StringBuilder sb = new StringBuilder();
@@ -33,7 +32,7 @@ public class CaptchaSettings {
             return false;
         }
     }
-   
+  //"6LdylUYUAAAAAIl50f8lB95QwAwKdZmkDdnOUUeaoR";
 }
 
 
