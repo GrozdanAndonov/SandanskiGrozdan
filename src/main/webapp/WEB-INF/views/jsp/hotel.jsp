@@ -120,7 +120,7 @@
     <tbody>
         <tr>
             <td class="text-center"><strong><s:message code="typeRooms4.hotel"></s:message></strong></td>
-            <td ><strong>35<s:message code="typeRooms7.hotel"></s:message></strong></td>           
+            <td ><strong>35/40<s:message code="typeRooms7.hotel"></s:message></strong></td>           
         </tr>
         <tr>
             <td class="text-center"><strong><s:message code="typeRooms5.hotel"></s:message></strong></td>
