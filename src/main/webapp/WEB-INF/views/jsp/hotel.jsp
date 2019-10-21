@@ -44,7 +44,7 @@
 			
 			<div class="container" style="margin-top:-5%">
 				 <div class="description text-center">					
-				<a href="#" id="imageHead"><img alt="Wow effect" src='<c:url value="/img/hotel/Grozdan & N-59.jpg"/>' style="width:100%; height:fixed;" class="img-rounded img-responsive img-raised"></a>											
+				<a href="#" id="imageHead"><img alt="Wow effect" src='<c:url value="/img/hotel/2.jpg"/>' style="width:100%; height:fixed;" class="img-rounded img-responsive img-raised"></a>											
 				</div>
 				</div>
 	            <div class="container">
@@ -186,30 +186,35 @@
 				                           <div>
 												<div class="col-md-6">		
 													<figure class="find-them-all">
-													 <a href="<c:url value="/img/hotel/PB151855.jpg"/>"  data-size="800x600" data-index="14">
-													<img src="<c:url value="/img/hotel/PB151855.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/hotel/3.jpg"/>"  data-size="800x726" data-index="1">
+													<img src="<c:url value="/img/hotel/3.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>								
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/Grozdan & N-61.jpg"/>"  data-size="800x533" data-index="1">
-													<img src="<c:url value="/img/hotel/Grozdan & N-61.jpg"/>"  class="img-rounded"  />
+												 <a href="<c:url value="/img/hotel/1.jpg"/>"  data-size="800x600" data-index="2">
+													<img src="<c:url value="/img/hotel/1.jpg"/>"  class="img-rounded"  />
 													</a>
 											</figure>
 										<figure class="find-them-all">
-												<a href="<c:url value="/img/hotel/Grozdan & N-63.jpg"/>"  data-size="800x533" data-index="2">
-													<img src="<c:url value="/img/hotel/Grozdan & N-63.jpg"/>" class="img-rounded" />
+												<a href="<c:url value="/img/hotel/4.jpg"/>"  data-size="800x600" data-index="3">
+													<img src="<c:url value="/img/hotel/4.jpg"/>" class="img-rounded" />
 													</a>
 												</figure>																					
 												</div>
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/Grozdan & N-69.jpg"/>"  data-size="800x533" data-index="3">
-													<img src="<c:url value="/img/hotel/Grozdan & N-69.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/hotel/5.jpg"/>"  data-size="800x600" data-index="4">
+													<img src="<c:url value="/img/hotel/5.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all">
-													 <a href="<c:url value="/img/hotel/Grozdan & N-70.jpg"/>"  data-size="800x1200" data-index="4">
-													<img src="<c:url value="/img/hotel/Grozdan & N-70.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/hotel/6.jpg"/>"  data-size="800x600" data-index="5">
+													<img src="<c:url value="/img/hotel/6.jpg"/>" class="img-rounded" />
+													</a>
+													</figure>
+													<figure class="find-them-all">
+													 <a href="<c:url value="/img/hotel/7.jpg"/>"  data-size="800x600" data-index="6">
+													<img src="<c:url value="/img/hotel/7.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 												</div>
@@ -220,32 +225,33 @@
 											<div class="row">
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/P1012003.jpg"/>"  data-size="800x600" data-index="5">
-													<img src="<c:url value="/img/hotel/P1012003.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/hotel/8.jpg"/>"  data-size="800x600" data-index="7">
+													<img src="<c:url value="/img/hotel/8.jpg"/>" class="img-rounded" />
 													</a>
 													</figure >													
 													<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/P1012046.jpg"/>"  data-size="800x1067" data-index="7">
-													<img src="<c:url value="/img/hotel/P1012046.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/hotel/9.jpg"/>"  data-size="800x600" data-index="8">
+													<img src="<c:url value="/img/hotel/9.jpg"/>" class="img-rounded" />
 													</a>
-													</figure>													
+													</figure>	
+													<figure class="find-them-all">
+												 <a href="<c:url value="/img/hotel/10.jpg"/>"  data-size="800x600" data-index="9">
+													<img src="<c:url value="/img/hotel/10.jpg"/>" class="img-rounded" />
+													</a>
+													</figure>														
 												</div>
 												<div class="col-md-6">
 												
 													 <figure class="find-them-all">
-													 <a href="<c:url value="/img/hotel/P1012042.jpg"/>"  data-size="800x600" data-index="8">
-													<img src="<c:url value="/img/hotel/P1012042.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/hotel/11.jpg"/>"  data-size="800x600" data-index="10">
+													<img src="<c:url value="/img/hotel/11.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all">
-												 	<a href="<c:url value="/img/hotel/P1012041.jpg"/>"  data-size="800x600" data-index="9">
-													<img src="<c:url value="/img/hotel/P1012041.jpg"/>" class="img-rounded" />
+												 	<a href="<c:url value="/img/hotel/12.jpg"/>"  data-size="800x1067" data-index="11">
+													<img src="<c:url value="/img/hotel/12.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
-													<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/P1012037.jpg"/>"  data-size="800x600" data-index="6">
-													<img src="<c:url value="/img/hotel/P1012037.jpg"/>" class="img-rounded" />
-													</a></figure>
 												</div>
 											</div>
 				                        </div>
@@ -253,30 +259,35 @@
 											<div class="row">
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/PB151852.jpg"/>"  data-size="800x600" data-index="10">
-													<img src="<c:url value="/img/hotel/PB151852.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/hotel/13.jpg"/>"  data-size="800x533" data-index="12">
+													<img src="<c:url value="/img/hotel/13.jpg"/>" class="img-rounded" />
 													</a>
 													</figure >
 													<figure class="find-them-all">
-														 <a href="<c:url value="/img/hotel/P1012005.jpg"/>"  data-size="800x1067" data-index="11">
-													<img src="<c:url value="/img/hotel/P1012005.jpg"/>" class="img-rounded" />
+														 <a href="<c:url value="/img/hotel/15.jpg"/>"  data-size="800x1200" data-index="13">
+													<img src="<c:url value="/img/hotel/15.jpg"/>" class="img-rounded" />
+													</a>
+													</figure>
+													<figure class="find-them-all">
+														 <a href="<c:url value="/img/hotel/18.jpg"/>"  data-size="800x600" data-index="14">
+													<img src="<c:url value="/img/hotel/18.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 												</div>
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/hotel/P1012025.jpg"/>"  data-size="800x600" data-index="12">
-													<img src="<c:url value="/img/hotel/P1012025.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/hotel/14.jpg"/>"  data-size="800x533" data-index="15">
+													<img src="<c:url value="/img/hotel/14.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all"> 
-													 <a href="<c:url value="/img/hotel/P1012028.jpg"/>"  data-size="800x600" data-index="13">
-													<img src="<c:url value="/img/hotel/P1012028.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/hotel/16.jpg"/>"  data-size="800x1067" data-index="16">
+													<img src="<c:url value="/img/hotel/16.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>	
 													<figure class="find-them-all"> 
-													 <a href="<c:url value="/img/hotel/800px-Sandanski-1296574665.jpg"/>"  data-size="800x600" data-index="13">
-													<img src="<c:url value="/img/hotel/800px-Sandanski-1296574665.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/hotel/17.jpg"/>"  data-size="800x600" data-index="17">
+													<img src="<c:url value="/img/hotel/17.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>													
 												</div>
@@ -289,7 +300,7 @@
 							<!-- End Profile Tabs -->
 						</div>
 	                </div>	
-	                <iframe src="https://www.google.com/maps/d/embed?mid=15njUidIyzUuLbPJl0nn8J-V9CA0" width="100%" height="480"></iframe> 
+	                <iframe src="https://www.google.com/maps/d/embed?mid=1wPmQPVmcXtnKZlX-GfxvgxdkBvv8bjXT" width="100%" height="480"></iframe> 
 	                </div>          
 	           </div>
 				</div>  
@@ -348,9 +359,9 @@ var openPhotoSwipe = function() {
 	var pswpElement = document.querySelectorAll('.pswp')[0];
 	var items = [
 	    {
-	        src: '<c:url value="/img/hotel/Grozdan & N-59.jpg"/>',
-	        w: 600,
-	        h: 400
+	        src: '<c:url value="/img/hotel/2.jpg"/>',
+	        w: 753,
+	        h: 606
 	    }
 	];
 	var options = {

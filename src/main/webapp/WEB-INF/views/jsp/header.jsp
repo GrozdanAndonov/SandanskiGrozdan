@@ -19,14 +19,14 @@
 
 	<div class="collapse navbar-collapse" id="navigation-example">
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="/apartments" id="header.apartments"><s:message
+			<li><a href="apartments" id="header.apartments"><s:message
 						code="header.apartments"></s:message></a></li>
 
-			<li><a href="/hotel"><s:message code="header.guestHouse"></s:message></a></li>
+			<li><a href="hotel"><s:message code="header.guestHouse"></s:message></a></li>
 
-			<li><a href="/rentACar"><s:message code="header.rentACar"></s:message></a></li>
+			<li><a href="rentACar"><s:message code="header.rentACar"></s:message></a></li>
 
-			<li><a href="/contacts"><s:message code="header.contacts"></s:message></a></li>
+			<li><a href="contacts"><s:message code="header.contacts"></s:message></a></li>
 
 			<li>
 			<li class="dropdown"><a href="#" class="dropdown-toggle"

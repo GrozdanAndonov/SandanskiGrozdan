@@ -41,40 +41,59 @@
 					<div class="container">
 
 						<div class="col-md-12 ">
-							<div class="col-md-4">	
-								<div class="thumbnail img-rounded img-responsive img-raised">
-									<img src="<c:url value="/img/cars/VW1.jpg" />" alt="..." class ="img-rounded" style="height:fixed; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-									<div class="caption">
-										<h3><s:message code="index.rentACar"></s:message></h3>
-										<p><s:message code="index.rentACar.descr"></s:message></p>
-										<p>
-											<a href="#" class="btn btn-primary" role="button">More info</a>
-										</p>
-									</div>
-								</div>	
-									</div>
 							<div class="col-md-4">
 								<div class="thumbnail img-rounded img-responsive img-raised">
-									<img src="<c:url value="/img/hotel/Grozdan & N-59.jpg" />"
-										alt="..." class ="img-rounded" style=" box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+									<img src="<c:url value="/img/cars/VW1.jpg" />" alt="..."
+										class="img-rounded"
+										style="height: fixed; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
 									<div class="caption">
-										<h3><s:message code="index.guestHouse"></s:message></h3>
-										<p><s:message code="index.guestHouse.descr"></s:message></p>
+										<h3>
+											<s:message code="index.rentACar"></s:message>
+										</h3>
 										<p>
-											<a href="#" class="btn btn-primary" role="button">More info</a>
+											<s:message code="index.rentACar.descr"></s:message>
+										</p>
+										<p>
+											<a href="#" class="btn btn-primary" role="button">More
+												info</a>
 										</p>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="thumbnail img-rounded img-responsive img-raised">
-									<img src="<c:url value="/img/apartments/1212.jpg" />"
-										alt="..." class ="img-rounded" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+									<img src="<c:url value="/img/hotel/Grozdan & N-59.jpg" />"
+										alt="..." class="img-rounded"
+										style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
 									<div class="caption">
-										<h3><s:message code="index.apartments"></s:message></h3>
-										<p><s:message code="index.apartments.descr"></s:message></p>
+										<h3>
+											<s:message code="index.guestHouse"></s:message>
+										</h3>
 										<p>
-											<a href="#" class="btn btn-primary" role="button">More info</a>
+											<s:message code="index.guestHouse.descr"></s:message>
+										</p>
+										<p>
+											<a href="#" class="btn btn-primary" role="button">More
+												info</a>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="thumbnail img-rounded img-responsive img-raised">
+									<img src="<c:url value="/img/apartments/1212.jpg" />" alt="..."
+										class="img-rounded"
+										style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+									<div class="caption">
+										<h3>
+											<s:message code="index.apartments"></s:message>
+										</h3>
+										<p>
+											<s:message code="index.apartments.descr"></s:message>
+										</p>
+										<p>
+											<a href="#" class="btn btn-primary" role="button">More
+												info</a>
 										</p>
 									</div>
 								</div>
@@ -82,9 +101,9 @@
 						</div>
 					</div>
 				</div>
-					</div>
-				</div>
 			</div>
+		</div>
+	</div>
 	<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>

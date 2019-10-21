@@ -45,7 +45,7 @@
 			
 				<div class="container">
 				 <div class="description text-center">					
-				<a href="#" id="imageHead"><img alt="Wow effect" src='<c:url value="/img/apartments/P7171069.jpg"/>' style="width:100%; height:fixed;" class="img-rounded img-responsive img-raised"></a>											
+				<a href="#" id="imageHead"><img src='<c:url value="/img/apartments/1.jpg"/>' style="width:100%; height:fixed;" class="img-rounded img-responsive img-raised"></a>											
 				</div>
 				</div>
 	
@@ -112,36 +112,47 @@
 				                           <div>
 												<div class="col-md-6">									
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/P7171067.jpg"/>"  data-size="700x525" data-index="1">
-													<img src="<c:url value="/img/apartments/P7171067.jpg"/>"  class="img-rounded"  />
+												 <a href="<c:url value="/img/apartments/2.jpg"/>"  data-size="1200x900" data-index="1">
+													<img src="<c:url value="/img/apartments/2.jpg"/>"  class="img-rounded"  />
 													</a>
 											</figure>
 										<figure class="find-them-all">
-												<a href="<c:url value="/img/apartments/P6031695.jpg"/>"  data-size="700x525" data-index="2">
-													<img src="<c:url value="/img/apartments/P6031695.jpg"/>" class="img-rounded" />
+												<a href="<c:url value="/img/apartments/3.jpg"/>"  data-size="700x525" data-index="2">
+													<img src="<c:url value="/img/apartments/3.jpg"/>" class="img-rounded" />
 													</a>
 												</figure>
 													<figure class="find-them-all">													 
-													 <a href="<c:url value="/img/apartments/P1012094.jpg"/>"  data-size="700x525" data-index="8">
-													<img src="<c:url value="/img/apartments/P1012094.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/apartments/4.jpg"/>"  data-size="1200x800" data-index="3">
+													<img src="<c:url value="/img/apartments/4.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
-											
-												</div>
-												<div class="col-md-6">
-												<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/P7290403.jpg"/>"  data-size="700x525" data-index="3">
-													<img src="<c:url value="/img/apartments/P7290403.jpg"/>" class="img-rounded" />
-													</a>
-													</figure>
-													<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/P7290405.jpg"/>"  data-size="700x525" data-index="4">
-													<img src="<c:url value="/img/apartments/P7290405.jpg"/>" class="img-rounded" />
+													<!-- ---- -->
+											<figure class="find-them-all">													 
+													 <a href="<c:url value="/img/apartments/18.jpg"/>"  data-size="1200x900" data-index="4">
+													<img src="<c:url value="/img/apartments/18.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all">													 
-													 <a href="<c:url value="/img/apartments/PA091819.jpg"/>"  data-size="700x525" data-index="8">
-													<img src="<c:url value="/img/apartments/PA091819.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/apartments/21.jpg"/>"  data-size="1200x800" data-index="5">
+													<img src="<c:url value="/img/apartments/21.jpg"/>" class="img-rounded" />
+													</a>
+													</figure>
+													<!-- -- -->
+												</div>
+												<div class="col-md-6">
+												<figure class="find-them-all">
+												 <a href="<c:url value="/img/apartments/5.jpg"/>"  data-size="1200x1600" data-index="6">
+													<img src="<c:url value="/img/apartments/5.jpg"/>" class="img-rounded" />
+													</a>
+													</figure>
+													<figure class="find-them-all">
+												 <a href="<c:url value="/img/apartments/6.jpg"/>"  data-size="1200x1600" data-index="7">
+													<img src="<c:url value="/img/apartments/6.jpg"/>" class="img-rounded" />
+													</a>
+													</figure>
+													<figure class="find-them-all">													 
+													 <a href="<c:url value="/img/apartments/7.jpg"/>"  data-size="1200x1600" data-index="8">
+													<img src="<c:url value="/img/apartments/7.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 												</div>
@@ -153,30 +164,30 @@
 											<div class="row">
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/P7290409.jpg"/>"  data-size="700x525" data-index="5">
-													<img src="<c:url value="/img/apartments/P7290409.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/apartments/8.jpg"/>"  data-size="1153x865" data-index="9">
+													<img src="<c:url value="/img/apartments/8.jpg"/>" class="img-rounded" />
 													</a>
 													</figure >
 													<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/Grozdan & N-29.jpg"/>"  data-size="700x466" data-index="6">
-													<img src="<c:url value="/img/apartments/Grozdan & N-29.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/apartments/9.jpg"/>"  data-size="1173x879" data-index="10">
+													<img src="<c:url value="/img/apartments/9.jpg"/>" class="img-rounded" />
 													</a></figure>
 													<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/P1011507.jpg"/>"  data-size="700x525" data-index="7">
-													<img src="<c:url value="/img/apartments/P1011507.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/apartments/10.jpg"/>"  data-size="1200x900" data-index="11">
+													<img src="<c:url value="/img/apartments/10.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 												</div>
 												<div class="col-md-6">
 												
 													 <figure class="find-them-all">													 
-													 <a href="<c:url value="/img/apartments/Grozdan & N-36.jpg"/>"  data-size="600x900" data-index="8">
-													<img src="<c:url value="/img/apartments/Grozdan & N-36.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/apartments/11.jpg"/>"  data-size="1200x900" data-index="12">
+													<img src="<c:url value="/img/apartments/11.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all">
-												 	<a href="<c:url value="/img/apartments/PA091820.jpg"/>"  data-size="700x525" data-index="9">
-													<img src="<c:url value="/img/apartments/PA091820.jpg"/>" class="img-rounded" />
+												 	<a href="<c:url value="/img/apartments/12.jpg"/>"  data-size="1200x1600" data-index="13">
+													<img src="<c:url value="/img/apartments/12.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>													 
 												</div>
@@ -186,30 +197,30 @@
 											<div class="row">
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/P1012100.jpg"/>"  data-size="600x800" data-index="10">
-													<img src="<c:url value="/img/apartments/P1012100.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/apartments/13.jpg"/>"  data-size="1200x1600" data-index="14">
+													<img src="<c:url value="/img/apartments/13.jpg"/>" class="img-rounded" />
 													</a>
 													</figure >
 													<figure class="find-them-all">
-														 <a href="<c:url value="/img/apartments/P1012102.jpg"/>"  data-size="700x525" data-index="11">
-													<img src="<c:url value="/img/apartments/P1012102.jpg"/>" class="img-rounded" />
+														 <a href="<c:url value="/img/apartments/14.jpg"/>"  data-size="1200x900" data-index="15">
+													<img src="<c:url value="/img/apartments/14.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 												</div>
 												<div class="col-md-6">
 												<figure class="find-them-all">
-												 <a href="<c:url value="/img/apartments/Grozdan & N-49.jpg"/>"  data-size="700x466" data-index="12">
-													<img src="<c:url value="/img/apartments/Grozdan & N-49.jpg"/>" class="img-rounded" />
+												 <a href="<c:url value="/img/apartments/15.jpg"/>"  data-size="1200x900" data-index="16">
+													<img src="<c:url value="/img/apartments/15.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all"> 
-													 <a href="<c:url value="/img/apartments/Grozdan & N-47.jpg"/>"  data-size="700x466" data-index="13">
-													<img src="<c:url value="/img/apartments/Grozdan & N-47.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/apartments/16.jpg"/>"  data-size="1200x900" data-index="17">
+													<img src="<c:url value="/img/apartments/16.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 													<figure class="find-them-all">													
-													 <a href="<c:url value="/img/apartments/P1011507.jpg"/>"  data-size="700x525" data-index="14">
-													<img src="<c:url value="/img/apartments/P1011507.jpg"/>" class="img-rounded" />
+													 <a href="<c:url value="/img/apartments/17.jpg"/>"  data-size="1121x841" data-index="18">
+													<img src="<c:url value="/img/apartments/17.jpg"/>" class="img-rounded" />
 													</a>
 													</figure>
 												</div>
@@ -340,9 +351,9 @@ var openPhotoSwipe = function() {
 	var pswpElement = document.querySelectorAll('.pswp')[0];
 	var items = [
 	    {
-	        src: '<c:url value="/img/apartments/P7171069.jpg"/>',
-	        w: 600,
-	        h: 400
+	        src: '<c:url value="/img/apartments/1.jpg"/>',
+	        w: 1200,
+	        h: 900
 	    }
 	];
 	var options = {
