@@ -40,7 +40,7 @@
 					<li><a href="?language=bg"
 						onclick="changeImage('<c:url value="/img/flags/BG.png" />');"><img
 							src="<c:url value="/img/flags/BG.png" />" /> Български(BG)</a></li>
-					<li class="divider"></li>
+					<%-- <li class="divider"></li>
 					<li><a href="#" onclick="return false;"><img
 							src="<c:url value="/img/flags/RU.png" />" /> Русский(RUS) <span
 							class="label label-default"><s:message
@@ -48,7 +48,7 @@
 					<li><a href="#" onclick="return false;"><img
 							src="<c:url value="/img/flags/TR.png" />" /> Türk(TR) <span
 							class="label label-default"><s:message
-									code="header.flagSoon"></s:message></span></a></li>
+									code="header.flagSoon"></s:message></span></a></li> --%>
 				</ul></li>
 
 		</ul>
