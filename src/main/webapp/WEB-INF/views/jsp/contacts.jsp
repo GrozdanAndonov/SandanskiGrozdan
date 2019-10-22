@@ -67,7 +67,7 @@
 									<tbody>
 										<tr>
 											<td><i class="material-icons">&#xE0D0;</i><strong>
-													grozdan96@gmail.com</strong></td>
+													sandanski.grozdan@gmail.com</strong></td>
 											<td><i class="material-icons">&#xE0CF;</i><strong>
 													+359-879-000-710</strong></td>
 										</tr>
@@ -109,7 +109,7 @@
 									</div>
 								</c:if>
 								<form class="contact-form" method="POST"
-									action="/contacts">
+									action="/Grozdan-hotel-SAIT/contacts">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="form-group label-floating">

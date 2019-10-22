@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.example.model.CaptchaSettings;
-import com.example.model.MailSenderDAO;
+import com.example.model.MailSender;
 
 @Controller
 @RequestMapping(value = "/contacts")
@@ -22,7 +22,7 @@ public class ContactsController {
 	private static final String RECAPTCHA_PARAM = "g-recaptcha-response";
 	
 	@Autowired
-	MailSenderDAO sendMail;
+	MailSender sendMail;
 
 	@Autowired
 	CaptchaSettings captcha;

@@ -32,7 +32,6 @@ public class CaptchaSettings {
             return false;
         }
     }
-  //"6LdylUYUAAAAAIl50f8lB95QwAwKdZmkDdnOUUeaoR";
 }
 
 

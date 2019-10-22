@@ -240,7 +240,7 @@
         <tbody>
         <tr>
             
-            <td><strong><s:message code="price.apartments"></s:message> m&sup2; - </strong> &euro; 330</td>
+            <td><strong><s:message code="price.apartments"></s:message></strong></td>
             <td><strong><s:message code="heating.apartments"></s:message> - </strong><s:message code="typeHeating.apartments"></s:message></td>
             <td><strong><s:message code="constr.apartments"></s:message> - </strong><s:message code="typeConstr.apartments"></s:message></td>
         </tr>
